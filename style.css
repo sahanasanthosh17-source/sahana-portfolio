@@ -122,3 +122,40 @@ footer {
 .contact-form button:hover {
     opacity: 0.9;
 }
+i {
+  margin-right: 8px;
+  color: #00bcd4;
+}
+
+/* Individual colors */
+.fa-user {
+  color: #ff9800;
+}
+
+.fa-code {
+  color: #4caf50;
+}
+
+.fa-envelope {
+  color: #f44336;
+}
+
+.fa-phone {
+  color: #2196f3;
+}
+
+.fa-github {
+  color: black;
+  font-size: 22px;
+}
+
+.fa-linkedin {
+  color: #0077b5;
+  font-size: 22px;
+}
+
+/* Hover effect */
+i:hover {
+  transform: scale(1.2);
+  transition: 0.3s;
+}
